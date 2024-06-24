@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Scroll",
+    "rpc": [
+        "https://rpc.scroll.io",
+        "https://rpc.ankr.com/scroll",
+        "https://scroll.drpc.org"
+    ],
+    "chain_id": 534352,
+    "eip1559_support": false,
+    "token": "ETH",
+    "explorer": "https://scrollscan.com/"
+  },
+  {
+    "name": "Ethereum",
+    "rpc": [
+        "https://rpc.ankr.com/eth",
+        "https://ethereum.publicnode.com",
+        "https://rpc.flashbots.net",
+        "https://1rpc.io/eth",
+        "https://eth.drpc.org"
+    ],
+    "chain_id": 1,
+    "eip1559_support": true,
+    "token": "ETH",
+    "explorer": "https://etherscan.io/"
+  }
+]
